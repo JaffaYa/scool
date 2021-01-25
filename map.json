@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/square\/scool.json"
+                 "value":"..\/scool.json"
                 }],
          "type":"tilelayer",
          "visible":true,
