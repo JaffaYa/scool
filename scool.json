@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=uaXgiMqiTig"
+                 "value":"http:\/\/etalon-systems.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"..\/scool\/birds.WAV"
+                 "value":"birds.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
