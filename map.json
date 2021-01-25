@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/scool\/scool.json"
+                 "value":"..\/scool\/scool.json#startFloor"
                 }],
          "type":"tilelayer",
          "visible":true,
