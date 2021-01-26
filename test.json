@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":32,
  "infinite":false,
  "layers":[
@@ -441,12 +448,12 @@
          "columns":16,
          "firstgid":28014,
          "image":"assets\/Victorian Town Decorations\/terrain-map.png",
-         "imageheight":8319,
+         "imageheight":8320,
          "imagewidth":512,
          "margin":0,
          "name":"terrain-map",
          "spacing":0,
-         "tilecount":4144,
+         "tilecount":15744,
          "tileheight":32,
          "tilewidth":32
         }],
